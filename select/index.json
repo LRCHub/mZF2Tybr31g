@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "DOG YEAR",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-26T00:51:46.081695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dog Year",
+      "artist": "G Perico",
+      "has_synced": false,
+      "path": "select/01_Dog_Year_G_Perico.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dog Year",
+      "artist": "Kaycie Satterfield",
+      "has_synced": true,
+      "path": "select/02_Dog_Year_Kaycie_Satterfield.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DOG YEAR (feat. Benjazzy)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/03_DOG_YEAR_(feat._Benjazzy)_BAD_HOP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOG YEAR (feat. Benjazzy)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_DOG_YEAR_(feat._Benjazzy)_BAD_HOP.txt"
+    }
+  ]
+}
